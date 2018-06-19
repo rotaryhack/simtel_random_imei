@@ -13,3 +13,5 @@ This script helps you make valid looking IMEI code. You have a slight chance to 
 
 Use at your own risk.
 Use with caution!
+
+This script is written with and for Raspberry Pi.

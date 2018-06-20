@@ -15,3 +15,6 @@ Use at your own risk.
 Use with caution!
 
 This script is written with and for Raspberry Pi.
+
+The modem devkit is available from ebay:
+https://www.ebay.com/itm/SIM7100E-MINI-PCIE-To-USB-Adapter-sim-card-slot-U-FL-pigtail-SMA-Antenna/282929860318?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649
